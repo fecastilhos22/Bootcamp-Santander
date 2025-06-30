@@ -30,7 +30,7 @@ else:
 
 
 #if aninhado
-conta_normal = true
+conta_normal = True
 conta_universitaria = False
 
 saque = 2000
