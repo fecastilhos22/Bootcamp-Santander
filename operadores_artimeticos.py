@@ -14,3 +14,10 @@ x = (10 + 5) * 4
 y = (10 / 2) + 25 * (2 - (2**2))
 print(x)
 print(y)
+
+#revisão
+n1 =int(input("Digite um número: "))
+n2 =int(input("Digite outro número: "))
+soma = n1 + n2
+print("A soma dos números digitados é:", soma)
+print(f"A soma de {n1} + {n2} é {soma}")#outra forma 

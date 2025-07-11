@@ -1,12 +1,7 @@
 frutas = ["laranja","maca", "uva"]#valores da lista
 print (frutas)
 
-frutas = [] #lista vaziaRun AUTHOR_NAME="fecastilhos22"
-Changed files:
-fecastilhos22
-ERROR: Invalid PR. More or different files than expected were changed.
-Error: Process completed with exit code 1.
-
+frutas = [] #lista vazia
 print(frutas)
 
 letras = list("python") #lista cada letra é um elemento p - y - t...
